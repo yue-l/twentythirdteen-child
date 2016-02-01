@@ -1,0 +1,16 @@
+/*
+Theme Name: Twenty Thirteen Child
+Theme URI: https://github.com/yue-l/twentythirteen-child
+Description: Customized Twenty Thirteen style
+Author: Yue Li
+Author URI: http://yueli.nz
+Template: twentythirteen
+Version: 0.1.0
+*/
+
+@import url('../twentythirteen/style.css');
+
+article{
+  display: block;
+  background-image: url('./images/dusk.png');
+}
